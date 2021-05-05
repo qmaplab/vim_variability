@@ -1,0 +1,16 @@
+{
+  "Name": "Ventralis intermedius nucleus anatomical variability assessment by MRI structural connectivity",
+  "BIDSVersion": "1.4.0",
+  "License": "ODC-BY 1.0",
+  "Authors": [
+    "Francisca Ferreira",
+    "Harith Akram",
+    "John Ashburner",
+    "Hui Zhang",
+    "Christian Lambert"
+  ],
+  "Acknowledgements": "Data were provided [in part] by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.",
+  "HowToAcknowledge": "Please cite: Ferreira F, Akram H, Ashburner J, Zhang H, Lambert C. 2020. Ventralis intermedius nucleus anatomical variability assessment by MRI structural connectivity. [Insert publication details]",
+  "Funding": "This work was supported by the Engineering and Physical Sciences Research Council (EPSRC, grants EP\/L016476\/1 and EP\/S021930\/1), Brain Research UK, and the University College London Hospitals NIHR Biomedical Research Centre. The Unit of Functional Neurosurgery, National Hospital for Neurology and Neurosurgery, London receives support from the Parkinsons Appeal and the Sainsbury Monument Trust. CL is supported by an MRC Clinician Scientist award (MR\/R006504\/1)",
+  "DatasetDOI": "Create via Zenedo when accepted"
+}

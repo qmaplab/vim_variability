@@ -1,0 +1,1 @@
+{"eddy_rms_first":{"LongName":"Movement root mean square from first acquired volume","Description":"Root mean square movement parameter from FSL eddy, calculated relative to first volume acquired, provided via HCP minimally processed download"}}
